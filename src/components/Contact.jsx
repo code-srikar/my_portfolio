@@ -56,13 +56,13 @@ const Contact = () => {
                 <button type="submit" className="btn btn-primary mt-3">Send</button>
             </ContactForm>
             <SocialIcons>
-                <IconLink href="https://linkedin.com" target="_blank" whileHover={{ scale: 1.2 }} whileTap={{ scale: 0.9 }}>
+                <IconLink href="https://www.linkedin.com/in/srikar-marikanti-120191285" target="_blank" whileHover={{ scale: 1.2 }} whileTap={{ scale: 0.9 }}>
                     <FaLinkedin />
                 </IconLink>
-                <IconLink href="https://github.com" target="_blank" whileHover={{ scale: 1.2 }} whileTap={{ scale: 0.9 }}>
+                <IconLink href="https://github.com/code-srikar" target="_blank" whileHover={{ scale: 1.2 }} whileTap={{ scale: 0.9 }}>
                     <FaGithub />
                 </IconLink>
-                <IconLink href="https://twitter.com" target="_blank" whileHover={{ scale: 1.2 }} whileTap={{ scale: 0.9 }}>
+                <IconLink href="https://x.com/Srikar_004?t=o0ZbDqbh0M-mcZrK5WUlhg&s=09" target="_blank" whileHover={{ scale: 1.2 }} whileTap={{ scale: 0.9 }}>
                     <FaTwitter />
                 </IconLink>
             </SocialIcons>
